@@ -15,7 +15,10 @@
     "994ddf2d-ec20-4517-8050-397f161cf415",
     "a77ca366-59fa-40a2-b866-11f5db7ec0ce",
     "f8112d92-ef0e-4ec0-898a-f33bc23bd5a7",
-    "fb5fc68b-862e-4fa4-9cd3-d12042d58a20"
+    "fb5fc68b-862e-4fa4-9cd3-d12042d58a20",
+    "dff9a2fb-1baa-40cd-b347-8534c1cafca4",
+    "22dff851-525e-453c-85dc-2427132bf5ba",
+    "fc256e9e-4b78-44ac-96d2-56e4d67af4f0"
   ],
   "data": [
     {
@@ -153,6 +156,54 @@
       "cover": "https://t.vndb.org/cv/02/34002.jpg",
       "title": "妹を汚した記憶",
       "bgmId": "230348"
+    },
+    {
+      "id": "b455e7b7-aa0f-438f-8d47-0cd5591e2e1e",
+      "vndbId": "v50765",
+      "updateDate": 1743328290.535,
+      "alias": [
+        "くらげらいふ"
+      ],
+      "description": "In Kurage Life, you'll play as a guy who takes over his dead father's ramen shop called \"Kurage-tei\" in order to pay off his debts.\nIn the shop, you meet the plain heroine Mitsuki Ayakawa who is working there part-time.\nHowever, she's a shut-in and super-introverted. It won't make paying off your debts easy, that's for sure...\nThat's why it's up to you to train her into a good employee and make a success out of your ramen shop together!\n\n[From [url=https://store.steampowered.com/app/2989770/Kurage_Life/]Steam[/url]]",
+      "tags": [
+        "ADV",
+        "Raising Simulation",
+        "Male Protagonist",
+        "Modern Day Japan",
+        "Only a Single Heroine",
+        "Only Adult Heroines",
+        "Heroine with Big Breasts",
+        "Debt",
+        "Adult Protagonist",
+        "Pure Love Story",
+        "Simulation Game",
+        "Protagonist's Sister as a Support Character",
+        "Shy Heroine",
+        "High Sexual Content",
+        "Cafe",
+        "Cunnilingus",
+        "Heroine with Beauty Mark",
+        "Hikikomori Heroine",
+        "Bathroom Sex",
+        "Manager Protagonist",
+        "Single Blowjob",
+        "Cowgirl",
+        "Clothed Male Naked Female",
+        "Part-time Job",
+        "French Kiss",
+        "Date Display"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 12.9,
+      "lastPlay": 0,
+      "createDate": 1743328290535,
+      "releaseDate": 1708819200000,
+      "rating": 6,
+      "developer": "Tail Aki",
+      "images": [],
+      "links": [],
+      "cover": "https://t.vndb.org/cv/60/95160.jpg",
+      "title": "Kurage Life"
     }
   ]
 }
