@@ -79,7 +79,7 @@
     {
       "id": "ff94cce9-803b-4476-a796-f9747f06cad0",
       "vndbId": "v22156",
-      "updateDate": 1743327873.845,
+      "updateDate": 1743327937.49,
       "alias": [
         "妹を汚した記憶",
         "与妹妹的记忆"
@@ -142,12 +142,12 @@
           "url": "https://www.wikidata.org/wiki/Q108793881"
         },
         {
-          "name": "gamefaqs_game",
-          "url": "https://gamefaqs.gamespot.com/-/227800-"
+          "url": "https://gamefaqs.gamespot.com/-/227800-",
+          "name": "gamefaqs_game"
         },
         {
-          "url": "https://www.animecharactersdatabase.com/source.php?id=105485",
-          "name": "acdb_source"
+          "name": "acdb_source",
+          "url": "https://www.animecharactersdatabase.com/source.php?id=105485"
         }
       ],
       "cover": "https://t.vndb.org/cv/02/34002.jpg",
