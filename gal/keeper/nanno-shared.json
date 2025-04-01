@@ -31,7 +31,9 @@
     "53776004-9268-4315-93e6-67ebba2cd210",
     "38b5accd-943c-402c-928a-598cc67a8923",
     "e5f52c0d-c4f3-4aa4-8cb7-79a4836b0931",
-    "5f8aff62-abbe-444d-a0de-90f8c3ac1d61"
+    "5f8aff62-abbe-444d-a0de-90f8c3ac1d61",
+    "31ee5d40-47a8-49e6-8520-59bbca52bb9f",
+    "a7d82843-c1ed-48aa-984c-842bdc3fb3f2"
   ],
   "data": [
     {
@@ -868,7 +870,7 @@
     {
       "id": "2626b2eb-8c49-40f1-97bf-9a3e3f54307f",
       "bgmId": "220369",
-      "updateDate": 1743340230.058,
+      "updateDate": 1743340578.402,
       "alias": [
         "突然＊恋人"
       ],
@@ -916,6 +918,135 @@
       "links": [],
       "cover": "https://t.vndb.org/cv/98/94598.jpg",
       "title": "Making*Lovers"
+    },
+    {
+      "id": "a49265b5-7baa-44cd-85fd-1e864fade80c",
+      "vndbId": "v1427",
+      "bgmId": "80316",
+      "updateDate": 1743402087.594,
+      "alias": [
+        "兰斯01 寻找小光",
+        "ランスII　－反逆の少女たち－"
+      ],
+      "description": "满脑子只想和女孩子们嘿咻的鬼畜战士-兰斯。\r\n他所到之处，全是美女们的悲鸣。\r\n他和最近刚购入的女魔法师·希露一起西去东来进行着冒险。\r\n而这次兰斯的目标是.…或者，更准确的说目的地是，世界上最富裕的国家利萨斯。\r\n因为，原本在名门帕丽斯学园上学的贵族的女儿…小光失踪，这份委托正好出现在他的面前。\r\n前往大都市利萨斯，跟大把大把的美女们嘿咻吧!\r\n顺道把委托解决掉，要是再和小光发生点什么…….满脑子只想着这是事的兰斯得意洋洋的向利萨斯出发了。",
+      "tags": [
+        "鬼畜",
+        "#A社#",
+        "HRPG",
+        "短篇",
+        "语音",
+        "HGame",
+        "奇幻",
+        "JRPG",
+        "TADA",
+        "AVG",
+        "游戏",
+        "后宫",
+        "ADV",
+        "拔作",
+        "魚介",
+        "重制",
+        "アリスソフト",
+        "汉化",
+        "GAL",
+        "2013",
+        "R18",
+        "战斗",
+        "黄油",
+        "游戏性",
+        "PC",
+        "重制版",
+        "RPG",
+        "Galgame",
+        "兰斯",
+        "alicesoft"
+      ],
+      "playTimelines": [
+        [
+          1743402091,
+          1743403119,
+          485
+        ],
+        [
+          1743403123,
+          1743403216,
+          26
+        ],
+        [
+          1743403222,
+          1743403649,
+          37
+        ],
+        [
+          1743403652,
+          1743403727,
+          18
+        ],
+        [
+          1743403732,
+          1743405103,
+          1054
+        ],
+        [
+          1743405113,
+          1743405218,
+          45
+        ],
+        [
+          1743405222,
+          1743405510,
+          26
+        ],
+        [
+          1743405514,
+          1743405859,
+          57
+        ],
+        [
+          1743405863,
+          1743406853,
+          609
+        ],
+        [
+          1743407372,
+          1743408929,
+          1205
+        ]
+      ],
+      "expectedPlayHours": 7,
+      "lastPlay": 1743408929000,
+      "createDate": 1743402035903,
+      "releaseDate": 1380240000000,
+      "rating": 7,
+      "developer": "Alice Soft",
+      "images": [
+        "https://t.vndb.org/sf/98/1098.jpg",
+        "https://t.vndb.org/sf/01/1101.jpg",
+        "https://t.vndb.org/sf/02/1102.jpg",
+        "https://t.vndb.org/sf/86/6186.jpg",
+        "https://t.vndb.org/sf/87/6187.jpg",
+        "https://t.vndb.org/sf/88/6188.jpg",
+        "https://t.vndb.org/sf/43/111043.jpg",
+        "https://t.vndb.org/sf/44/111044.jpg",
+        "https://t.vndb.org/sf/45/111045.jpg",
+        "https://t.vndb.org/sf/46/111046.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rance_(series)",
+          "name": "enwiki"
+        },
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/Rance"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1054896"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/90/1c/80316_0byyY.jpg",
+      "title": "ランス01 光をもとめて"
     }
   ]
 }
