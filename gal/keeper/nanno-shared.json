@@ -1047,6 +1047,220 @@
       ],
       "cover": "https://lain.bgm.tv/pic/cover/l/90/1c/80316_0byyY.jpg",
       "title": "ランス01 光をもとめて"
+    },
+    {
+      "id": "d4041958-31af-46d3-9f70-7f44b6e9e2ef",
+      "updateDate": 1743492548.766,
+      "alias": [],
+      "description": "",
+      "tags": [],
+      "playTimelines": [],
+      "expectedPlayHours": 0,
+      "lastPlay": 0,
+      "createDate": 1743492548766,
+      "releaseDate": 0,
+      "rating": 0,
+      "developer": "",
+      "images": [],
+      "links": [],
+      "cover": "",
+      "title": "Rance07"
+    },
+    {
+      "id": "9c64f2b1-bf4d-4d7e-8dca-643cb4508ca5",
+      "vndbId": "v487",
+      "bgmId": "1795",
+      "updateDate": 1743492599.825,
+      "alias": [
+        "战国兰斯",
+        "Sengoku Rance",
+        "戦国ランス"
+      ],
+      "description": "在大陆东端的岛国JAPAN、分为了31个国家、有10多个势力在上面分别统治了地区。\r\n在这样的JAPAN、为了争夺战国大名们正在第四次战国时代的战争之中。\r\n被称为鬼畜在大陆上各种乱来的兰斯、带着奴隶的希露来到了JAPAN。\r\n\r\n温泉旅行？\r\n\r\n不 不对、虽然会去温泉、但兰斯的目的是、和听说很美的JAPAN公主 女武士 巫女 女忍者 村姑做个不停。\r\n特别是想把据说是”JAPAN第一美女”JAPAN最大势力・织田家的香姫据为己有。\r\n\r\n因为机缘巧合、兰斯成为了织田的支配者、各国的状况也发生了变化。\r\n兰斯朝着JAPAN统一的大进军即将开始！！ \r\n",
+      "tags": [
+        "战斗",
+        "拔作",
+        "ADV",
+        "AVG",
+        "嘿嘿",
+        "とり",
+        "后宫",
+        "織音",
+        "世界観がいい",
+        "汉化",
+        "RPG",
+        "黄油",
+        "游戏性",
+        "TADA",
+        "R18",
+        "纯爱王",
+        "上杉姐姐",
+        "アリスソフト",
+        "GAL",
+        "2006",
+        "鬼畜",
+        "神作",
+        "PC",
+        "战国兰斯",
+        "上杉谦信",
+        "战兰",
+        "兰斯",
+        "Galgame",
+        "SLG",
+        "alicesoft"
+      ],
+      "playTimelines": [
+        [
+          1743492606,
+          1743492612,
+          7
+        ]
+      ],
+      "expectedPlayHours": 60.9,
+      "lastPlay": 1743492612000,
+      "createDate": 1743492599825,
+      "releaseDate": 1166140800000,
+      "rating": 8.3,
+      "developer": "Alice Soft",
+      "images": [
+        "https://t.vndb.org/sf/50/4350.jpg",
+        "https://t.vndb.org/sf/51/4351.jpg",
+        "https://t.vndb.org/sf/52/4352.jpg",
+        "https://t.vndb.org/sf/53/4353.jpg",
+        "https://t.vndb.org/sf/54/4354.jpg",
+        "https://t.vndb.org/sf/99/8099.jpg",
+        "https://t.vndb.org/sf/00/8100.jpg",
+        "https://t.vndb.org/sf/01/8101.jpg",
+        "https://t.vndb.org/sf/04/8104.jpg",
+        "https://t.vndb.org/sf/05/8105.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://ja.wikipedia.org/wiki/戦国ランス",
+          "name": "jawiki"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q65268748"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/07/31/1795_CgxQU.jpg",
+      "title": "戦国ランス"
+    },
+    {
+      "id": "22c6a0c5-9e34-42d0-872e-f8bbe0dfffb0",
+      "vndbId": "v16208",
+      "bgmId": "116262",
+      "updateDate": 1743577999.524,
+      "alias": [
+        "柯罗的怀表",
+        "ChronoClock",
+        "Chrono Clock",
+        "クロノクロック"
+      ],
+      "description": "夏天的日常。\r\n\r\n沢渡澪制作了一份校内可爱女孩子的名单，并无耻地去逐个告白、\r\n然后使用怀表的力量毫无风险地调查出有戏的对象。\r\n\r\n某日的放学后。\r\n一位少女从学校的屋顶坠落、重重地摔到了地面。\r\n为了解真相而进行时空穿越的澪冲到屋顶所发现的是后辈•铃木美羽、\r\n事因她把对亲友的告白完全搞砸了。\r\n\r\n虽然美羽拥有罕见的重度对人恐惧症这种不幸的体质、\r\n不过她仍竭力鼓起勇气进行了告白。\r\n\r\n看到她对喜欢的对象如此尽心尽力、没有怀表的力量便无法告白的主人公被美羽的直率所感动、决定帮她进行第2次告白。\r\n\r\n于是这奇妙的三角关系日常就开始了。\r\n同时，主人公也获得了向其她女主角正式告白的勇气。\r\n就是这样的一篇故事。",
+      "tags": [
+        "2015-04",
+        "Purple_Software",
+        "无修正",
+        "游戏",
+        "藤森ゆき奈",
+        "校园",
+        "月杜尋",
+        "ADV",
+        "纯爱",
+        "画质",
+        "妹ゲー",
+        "实妹",
+        "北見六花",
+        "GAL",
+        "Purple",
+        "瑞沢渓",
+        "生肉",
+        "废萌",
+        "雪都大法",
+        "PC",
+        "汉化",
+        "クロノクロック",
+        "妹控",
+        "2015",
+        "克",
+        "妹",
+        "御影",
+        "紫社",
+        "Purplesoftware",
+        "Galgame"
+      ],
+      "playTimelines": [
+        [
+          1743578036,
+          1743578140,
+          27
+        ],
+        [
+          1743578150,
+          1743578511,
+          351
+        ]
+      ],
+      "expectedPlayHours": 30,
+      "lastPlay": 1743578511000,
+      "createDate": 1743577999524,
+      "releaseDate": 1429833600000,
+      "rating": 6.7,
+      "developer": "Purple software",
+      "images": [
+        "https://t.vndb.org/sf/31/85631.jpg",
+        "https://t.vndb.org/sf/33/85633.jpg",
+        "https://t.vndb.org/sf/34/85634.jpg",
+        "https://t.vndb.org/sf/35/85635.jpg",
+        "https://t.vndb.org/sf/40/85640.jpg",
+        "https://t.vndb.org/sf/77/195677.jpg",
+        "https://t.vndb.org/sf/78/195678.jpg",
+        "https://t.vndb.org/sf/79/195679.jpg",
+        "https://t.vndb.org/sf/80/195680.jpg",
+        "https://t.vndb.org/sf/81/195681.jpg"
+      ],
+      "links": [
+        {
+          "name": "jawiki",
+          "url": "https://ja.wikipedia.org/wiki/クロノクロック"
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q30929901",
+          "name": "wikidata"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/chronoclock"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/205095-"
+        },
+        {
+          "name": "acdb_source",
+          "url": "https://www.animecharactersdatabase.com/source.php?id=104318"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=44155"
+        },
+        {
+          "name": "igdb_game",
+          "url": "https://www.igdb.com/games/chrono-clock"
+        },
+        {
+          "name": "pcgamingwiki",
+          "url": "https://www.pcgamingwiki.com/wiki/ChronoClock"
+        },
+        {
+          "name": "lutris",
+          "url": "https://lutris.net/games/chronoclock"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/f1/e0/116262_qPgpi.jpg",
+      "title": "クロノクロック"
     }
   ]
 }
