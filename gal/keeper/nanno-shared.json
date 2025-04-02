@@ -51,7 +51,113 @@
     "28f1638c-d89c-4188-bd77-a3418b8efae2",
     "a2f78a75-9cd7-4441-98f4-f1867fe7ff11",
     "7d2940d0-6834-4f08-8317-918adf063ca4",
-    "a49265b5-7baa-44cd-85fd-1e864fade80c"
+    "a49265b5-7baa-44cd-85fd-1e864fade80c",
+    "a721acd4-498e-433a-aaa1-3299c273bf1f"
   ],
-  "data": []
+  "data": [
+    {
+      "id": "8f12fa00-0dc1-476d-bc22-da9c9170e234",
+      "vndbId": "v16208",
+      "bgmId": "116262",
+      "updateDate": 1743580908.277,
+      "alias": [
+        "柯罗的怀表",
+        "ChronoClock",
+        "Chrono Clock",
+        "クロノクロック"
+      ],
+      "description": "夏天的日常。\r\n\r\n沢渡澪制作了一份校内可爱女孩子的名单，并无耻地去逐个告白、\r\n然后使用怀表的力量毫无风险地调查出有戏的对象。\r\n\r\n某日的放学后。\r\n一位少女从学校的屋顶坠落、重重地摔到了地面。\r\n为了解真相而进行时空穿越的澪冲到屋顶所发现的是后辈•铃木美羽、\r\n事因她把对亲友的告白完全搞砸了。\r\n\r\n虽然美羽拥有罕见的重度对人恐惧症这种不幸的体质、\r\n不过她仍竭力鼓起勇气进行了告白。\r\n\r\n看到她对喜欢的对象如此尽心尽力、没有怀表的力量便无法告白的主人公被美羽的直率所感动、决定帮她进行第2次告白。\r\n\r\n于是这奇妙的三角关系日常就开始了。\r\n同时，主人公也获得了向其她女主角正式告白的勇气。\r\n就是这样的一篇故事。",
+      "tags": [
+        "2015-04",
+        "Purple_Software",
+        "无修正",
+        "游戏",
+        "藤森ゆき奈",
+        "校园",
+        "月杜尋",
+        "ADV",
+        "纯爱",
+        "画质",
+        "妹ゲー",
+        "实妹",
+        "北見六花",
+        "GAL",
+        "Purple",
+        "瑞沢渓",
+        "生肉",
+        "废萌",
+        "雪都大法",
+        "PC",
+        "汉化",
+        "クロノクロック",
+        "妹控",
+        "2015",
+        "克",
+        "妹",
+        "御影",
+        "紫社",
+        "Purplesoftware",
+        "Galgame"
+      ],
+      "playTimelines": [],
+      "expectedPlayHours": 30,
+      "lastPlay": 0,
+      "createDate": 1743580719081,
+      "releaseDate": 1429833600000,
+      "rating": 6.7,
+      "developer": "Purple",
+      "images": [
+        "https://t.vndb.org/sf/31/85631.jpg",
+        "https://t.vndb.org/sf/33/85633.jpg",
+        "https://t.vndb.org/sf/34/85634.jpg",
+        "https://t.vndb.org/sf/35/85635.jpg",
+        "https://t.vndb.org/sf/40/85640.jpg",
+        "https://t.vndb.org/sf/77/195677.jpg",
+        "https://t.vndb.org/sf/78/195678.jpg",
+        "https://t.vndb.org/sf/79/195679.jpg",
+        "https://t.vndb.org/sf/80/195680.jpg",
+        "https://t.vndb.org/sf/81/195681.jpg"
+      ],
+      "links": [
+        {
+          "url": "https://ja.wikipedia.org/wiki/クロノクロック",
+          "name": "jawiki"
+        },
+        {
+          "name": "wikidata",
+          "url": "https://www.wikidata.org/wiki/Q30929901"
+        },
+        {
+          "name": "mobygames",
+          "url": "https://www.mobygames.com/game/chronoclock"
+        },
+        {
+          "name": "gamefaqs_game",
+          "url": "https://gamefaqs.gamespot.com/-/205095-"
+        },
+        {
+          "name": "acdb_source",
+          "url": "https://www.animecharactersdatabase.com/source.php?id=104318"
+        },
+        {
+          "name": "howlongtobeat",
+          "url": "http://howlongtobeat.com/game.php?id=44155"
+        },
+        {
+          "url": "https://www.igdb.com/games/chrono-clock",
+          "name": "igdb_game"
+        },
+        {
+          "url": "https://www.pcgamingwiki.com/wiki/ChronoClock",
+          "name": "pcgamingwiki"
+        },
+        {
+          "url": "https://lutris.net/games/chronoclock",
+          "name": "lutris"
+        }
+      ],
+      "cover": "https://lain.bgm.tv/pic/cover/l/f1/e0/116262_qPgpi.jpg",
+      "title": "克洛的时钟"
+    }
+  ]
 }
